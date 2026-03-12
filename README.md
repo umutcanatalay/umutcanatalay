@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;iOS+%7C+Web+%7C+Automation+%7C+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Flutter+%7C+Web+%7C+Automation+%7C+AI+Agents" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
@@ -23,17 +23,18 @@
 ```yaml
 name: Umutcan Atalay
 location: İstanbul, Türkiye
+education: İstanbul Topkapı Üniversitesi
 role: Software Developer
 
 focus_areas:
   - AI Agents & MCP Integrations
-  - iOS Development (Swift)
+  - Mobile Development (Flutter)
   - Web Development
   - Workflow Automation (n8n)
 
 currently:
   learning: "Advanced AI Agent architectures"
-  building: "iOS Game Projects & AI-powered apps"
+  building: "DeHadi — AI-powered English learning app"
   exploring: "MCP, LangChain, RAG systems"
 
 motto: "Geleceği tahmin etmenin en iyi yolu, onu inşa etmektir."
@@ -47,15 +48,14 @@ motto: "Geleceği tahmin etmenin en iyi yolu, onu inşa etmektir."
 
 **Languages**
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frameworks & Tools**
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -71,7 +71,6 @@ motto: "Geleceği tahmin etmenin en iyi yolu, onu inşa etmektir."
 
 **Platforms**
 
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -88,14 +87,40 @@ motto: "Geleceği tahmin etmenin en iyi yolu, onu inşa etmektir."
 <tr>
 <td width="50%">
 
-### 🎮 iOS Game Project
-<a href="https://github.com/umutcanatalay/IOS-Game-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umutcanatalay&repo=IOS-Game-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%" />
+### 📱 DeHadi — English Learning App
+<a href="https://github.com/umutcanatalay/dehadi-flutter-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umutcanatalay&repo=dehadi-flutter-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%" />
 </a>
 
-`Swift` `iOS` `SpriteKit` `GameDev`
+`Flutter` `Dart` `Spaced Repetition` `AI`
 
-Swift ile geliştirilmiş iOS oyun projesi
+Aralıklı tekrar algoritması ile İngilizce kelime öğrenme uygulaması
+
+</td>
+<td width="50%">
+
+### 🤖 N8N AI Automations
+<a href="https://github.com/umutcanatalay/n8n-ai-automations">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umutcanatalay&repo=n8n-ai-automations&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%" />
+</a>
+
+`n8n` `AI Agents` `MCP` `Automation`
+
+Telegram, Gmail, LinkedIn, YouTube entegrasyonları
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏊 42 İstanbul Piscine
+<a href="https://github.com/umutcanatalay/42-piscine-istanbul">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umutcanatalay&repo=42-piscine-istanbul&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%" />
+</a>
+
+`C` `Shell` `42 School` `Algorithms`
+
+42 İstanbul Piscine — C ve Shell egzersizleri
 
 </td>
 <td width="50%">
