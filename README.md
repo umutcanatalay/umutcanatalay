@@ -11,7 +11,9 @@
 
 ## 🔗 **Connect with Me**
 <div align="center">
-<a href="https://www.linkedin.com/in/umutcan-atalay-ba782225b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin,instagram,twitter" /></a>
+<a href="https://www.linkedin.com/in/umutcan-atalay-ba782225b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.instagram.com/umutcan.atly/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://x.com/umutcan_atly" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="mailto:info@umutcanatalay.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://umutcanatalay.com" target="_blank"><img src="https://skillicons.dev/icons?i=workers" /></a>
 </div>
